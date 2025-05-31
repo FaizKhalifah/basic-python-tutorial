@@ -1,4 +1,4 @@
-umur_andi = 20
+umur_andi = 16
 
 if(umur_andi > 17):
     print("Andi bisa naik motor")
